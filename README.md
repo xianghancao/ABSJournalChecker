@@ -22,14 +22,16 @@ cd ABSJournalChecker
 The extension will now display ABS journal ratings when browsing journal websites.
 
 
-📜 License
+## 📜 License
 
 📝 This project is licensed under the MIT License – free to use, modify, and distribute.
 
----
 
-💬 Contact & Contributions
+## 💬 Contact & Contributions
 
 💡 Want to contribute? Fork the repository and submit a pull request!
 📧 For any inquiries, contact: caoxianghan@gmail.com
-🔗 GitHub Repo: ABSJournalChecker
+
+
+
+"ABSJournalChecker" is a Chrome extension for checking ABS Journal's stars. Use the "Manage Extension" in your Chrome to find this file path. Enjoy!
